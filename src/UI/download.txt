@@ -1,0 +1,26 @@
+user: Hi there , how can I help you today
+assistant:  Hi, I'm looking for a gaming laptop. I want to make sure it meets my specific requirements. Can you help me find one? 
+user: Sure we can do that
+assistant:  Thank you. My budget is $1,500. What options do you have within that range? 
+user: We have a couple of options in that range , lets better understand your requirments
+assistant:  Actually, I'm a bit shy and timid, so I'm not very familiar with the technical specifications of gaming laptops. Can you explain them to me in simpler terms? 
+user: Sure we can do that , lets first better understand what you need a laptop for . Are you a casual gamer or a professional gamer
+assistant:  I'm a casual gamer, but I want a laptop that can handle more demanding games. I also need it to be portable so I can take it with me when I travel. 
+user: Ok , so what types of games do you play . I want to better understand the graphics card that you would require 
+assistant:  I mostly play action and adventure games, so I need a laptop with a good graphics card that can handle those types of games. 
+user: Ok great , we have a lot of options that support these requirments . What price range are you looking at ?
+assistant:  My budget is $1,500. What options do you have within that range? Also, I'm a bit shy and timid, so I'm not very familiar with the technical specifications of gaming laptops. Can you explain them to me in simpler terms? 
+user: Ok , so remind me again did you mention what games you would be playing ?
+assistant:  Yes, I mostly play action and adventure games. I need a laptop with a good graphics card that can handle those types of games. And my budget is $1,500. Can you recommend any options that meet those requirements? Also, I'm still a bit shy and timid, so can you explain the technical specifications in simpler terms? 
+user: Sure , the technical requirments would be the storage , RAM and graphics card . Also since you need a laptop which is portable we need a lightweight laptop
+assistant:  Thank you for explaining that. So, what options do you have that meet my requirements? And can you show me how they perform with gaming? 
+user: Yess , I feel that the Asus Rog Trix would be the best option for you it is 1200 and it has a good storage of 1000GB and RAM of 12 GB . It also comes with an Nvidia Graphics card which should be more than enough for your gaming requirements
+assistant:  That sounds like a good option. Can you show me how it performs with gaming? Also, do you have any other options within my budget? 
+user: Yes lets play this adventure game < proceeds to show game >
+assistant:  The Asus Rog Trix sounds like a good option for me. I'm a bit shy and timid, so can you explain how it compares to other options within my budget? 
+user: Compared to other options its cheaper and has better hardware specifications . I feel this would be the best fit for you
+assistant:  Thank you for explaining that. The Asus Rog Trix sounds like a good option for me. I'm ready to make the purchase. 
+user: Great lets proceed to the counter
+assistant:  I'm ready to make the purchase of the Asus Rog Trix. Do you have any gaming accessory recommendations that would be helpful for me? 
+user: A laptop bag and mouse would be great ! Let me give these to you on the house . 
+assistant:  Thank you for recommending the Asus Rog Trix. I'm ready to make the purchase. 
